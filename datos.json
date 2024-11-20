@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Catedral Bariloche",
+        "descripcion": "Fortografías del exterior e interior de la Catedral de Nuestra Señora de Nahuel Huapi en el centro de Bariloche",
+        "fecha": "2024",
+        "signo": "Bariloche",
+        "foto": "CATEDRAL 1.jpg",
+        "fotos":"["CATEDRAL 2.jpg","CATEDRAL 3.jpg","CATEDRAL 4.jpg"]",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Circuito Chico",
+        "descripcion": "Fotografías de las vistas del Circuito Chico de Bariloche",
+        "fecha": "2024",
+        "signo": "Bariloche",
+        "foto": "CIRCUITO CHICO 1.jpg",
+        "fotos": "["CIRCUITO CHICO 2.jpg","CIRCUITO CHICO 3.jpg","CIRCUITO CHICO 4.jpg","CIRCUITO CHICO 5.jpg"]",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Cerro Otto",
+        "descripcion": "Fotografías de las vistas del Cerro Otto de Bariloche",
+        "fecha": "2024",
+        "signo": "Bariloche",
+        "foto": "CERRO OTTO 1.jpg",
+        "fotos": "["CERRO OTTO 1.jpg","CERRO OTTO 2.jpg","CERRO OTTO 3.jpg"]",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Centro Cívico de Punta Arenas",
+        "descripcion": "Fotograías del centro cívico de Punta Arenas",
+        "fecha": "2023",
+        "signo": "Puenta Arenas",
+        "foto": "https://github.com/user-attachments/assets/58b11edb-fa10-4e4f-8597-b9261722952f",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Flora y fauna Punta Arenas",
+        "descripcion": "Fotografías de la flora y fauna de Punta Arenas",
+        "fecha": "2023",
+        "signo": "Punta Arenas",
+        "foto": "https://github.com/user-attachments/assets/e789f852-aed8-496f-9406-09b50c038db6",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Viajando por Punta Arenas",
+        "descripcion": "Fotografías mías en distintos puntos de Punta Arenas",
+        "fecha": "2023",
+        "signo": "Punta Arenas",
+        "foto": "https://github.com/user-attachments/assets/07311ab5-af0c-4af1-8d2e-d66f4f0c8cdc",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Vistas de Porvenir",
+        "descripcion": "Fotograías de las vistas de la ciudad de Porvenir en Tierra del Fuego",
+        "fecha": "2023",
+        "signo": "Porvenir",
+        "foto": "https://github.com/user-attachments/assets/09f5fa04-0cb7-4169-8628-09532c2166d1",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Minga Porvenir",
+        "descripcion": "Fotografías de los trabajos realizados durante la Minga de Porvenir en Tierra del Fuego",
+        "fecha": "2023",
+        "signo": "Porvenir",
+        "foto": "https://github.com/user-attachments/assets/aaf4edde-84c3-4e82-8e65-20c0cf6c95e4",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Fauna Porvenir",
+        "descripcion": "Fotografías de la fauna presente en Porvenir, Tierra del Fuego",
+        "fecha": "2023",
+        "signo": "Porvenir",
+        "foto": "https://github.com/user-attachments/assets/28f92345-5b94-4773-a3ec-c41c45233b5d",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Barcos de Puerto Edén",
+        "descripcion": "Fotografías de los diferentes barcos pesqueros de la localidad de Puerto Edén, Magallanes",
+        "fecha": "2023",
+        "signo": "Puerto Edén",
+        "foto": "https://github.com/user-attachments/assets/0f7de4aa-567f-4a18-b043-3852ccf02835",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Vistas Puerto Edén",
+        "descripcion": "Fotografías de las vistas de la localidad de Puerto Edén, Magallanes", 
+        "fecha": "2023",
+        "signo": "Puerto Edén",
+        "foto": "https://github.com/user-attachments/assets/be33c411-ea12-4cf0-aacb-ed1d14db134a",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    },
+    {
+        "nombre": "Viajando por Puerto Edén",
+        "descripcion": "Fotografías mías viajando por distintos lugares de la localidad de Puerto Edén, Magallanes",
+        "fecha": "2023",
+        "signo": "Puerto Edén",
+        "foto": "https://github.com/user-attachments/assets/94a7caf6-71ec-4839-a3d5-155649b50344",
+        "fotos": "",
+        "github": "https://github.com/era-it"
+    }
+    
+]
